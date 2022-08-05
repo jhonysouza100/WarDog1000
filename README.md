@@ -34,28 +34,31 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <a> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<a> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 
 
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
- <a> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
- <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
+<a> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
- <a> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
- <a> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
- <a> <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="afterefects" width="40" height="40"/>
-
+<a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" height="40"/>
+<a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40" height="40"/>
+<a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="40" height="40"/>
+<a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="40" height="40"/>
+<a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="40" height="40"/>
+ 
 <!--
 
-<a href="#" target="_blank"> <img src="#" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="#" alt="#" width="40" height="40"/>
 
 For more devicons: https://github.com/devicons/devicon/tree/master/icons
+                   https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
 
 https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg 
 https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg
