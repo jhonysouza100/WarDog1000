@@ -31,20 +31,26 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
     
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
- <a href="photoshop" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
- <a href="illustrator" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
- <a href="afterefects" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
-<a href="visualstudio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="#" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="#" width="40" height="40"/>
+  <a> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+
+ <a> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
+ <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+ <a> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+ <a> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+ <a> <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="afterefects" width="40" height="40"/>
+
 <!--
 
 <a href="#" target="_blank"> <img src="#" width="40" height="40"/>
@@ -69,6 +75,8 @@ https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg
 https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
 https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
 https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg
+https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 
 -->
  
