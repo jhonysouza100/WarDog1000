@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 style='text-align: center;'>
         <img  width="30" height="30" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
         I'm Jhony Souza and I thank you for visiting my profile
         <img  width="40" height="40" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
