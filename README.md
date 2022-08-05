@@ -1,4 +1,8 @@
-<h1 align="left"> I'm Jhony Souza and I thank you for visiting my profile </h1>
+<h1 align="left">
+        <img  width="30" height="30" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
+        I'm Jhony Souza and I thank you for visiting my profile
+        <img  width="40" height="40" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
+</h1>
 
 <img width="100%" height="600" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>
 
@@ -6,6 +10,8 @@
 **WarDog1000/WarDog1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://c.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif
 https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
+https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
+https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
 Here are some ideas to get you started:
 
 <h2 align="left">About me:  </h1>
