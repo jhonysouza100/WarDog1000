@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+- 🔭 I am currently looking for my first job in IT.
+- 🌱 I'm currently learning frontend development with javascript.
+- 😄 Pronouns: a thousand war dogs or WarDog for friends.
+- ⚡ Fun fact: I'm an aspiring game developer and graphic designer.
+- 📫 How to contact me: jhonatansouzameza100@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
     
