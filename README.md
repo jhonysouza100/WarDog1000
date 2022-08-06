@@ -15,9 +15,6 @@ https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fd
 
 Here are some ideas to get you started:
 
-
-<h2 align="left">About me:  </h1>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -28,13 +25,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+<h2 align="left">About me:  </h1>
+
 - 🔭 I am currently looking for my first job in IT.
 - 🌱 I'm currently learning frontend development with javascript.
 - 😄 Pronouns: a thousand war dogs or WarDog for friends.
 - ⚡ Fun fact: I'm an aspiring game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
     
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
@@ -90,8 +90,8 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 -->
  
 <p align="left">
- <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
  <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
+<a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
 </p>
       
 
