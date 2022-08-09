@@ -99,5 +99,5 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
       
 <p align="left">
 <a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dracula">
-<a href="https://github.com/WarDog1000/FreeCodeCamp-api"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&layout=compact&theme=dracula">
+<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dracula">
 </p>
