@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <h2 align="left">About me:  </h1>
 
-- 🔭 I am currently looking for my first job in IT.
-- 🌱 I'm currently learning frontend development with javascript.
+- 🌱 I'm currently learning Frontend development with HTML5 and CSS3.
+- 💭​ My goal is to get my first job in IT.
 - 😄 Pronouns: a thousand war dogs or WarDog for friends.
-- ⚡ Fun fact: I'm an aspiring game developer and graphic designer.
+- ⚡ Fun fact: I'm an aspiring video game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
 
 <h2 align="left">Languages and Tools:</h2>
@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>-->
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" height="40"/> </a>
