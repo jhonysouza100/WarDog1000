@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: a thousand war dogs or WarDog for friends.
 - ⚡ Fun fact: I'm an aspiring video game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
-- 🌐 Personal web page: wardog1000.github.io
+- 🌐 Personal web page: https://wardog1000.github.io/
 
 <h2 align="left">Languages and Tools:</h2>
     
