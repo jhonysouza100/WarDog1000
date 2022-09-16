@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <h2 align="left">About me:  </h1>
 
 - 🌱 I have successfully completed the Responsive Web Design Developer Certification, which represents approximately 300 hours of courses for Frontend with HTML5 and CSS3.
-- 💭 My goal is to get my first job in IT.
-- 😄 Pronouns: a thousand war dogs or WarDog for friends.
-- ⚡ Fun fact: I'm an aspiring video game developer and graphic designer.
+- ⚡ I am currently learning javaScript.
+- 💭 My goal is to get my first IT job as a full stack web developer
+- 😄 Fun fact: I'm an aspiring video game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
 - 🌐 Personal web page: https://wardog1000.github.io/
 
