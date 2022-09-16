@@ -4,7 +4,7 @@
  <img  width="40" height="40" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
 </h1>
 
-<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>
+<!--<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>-->
 
 <!--
 **WarDog1000/WarDog1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">About me:  </h1>
 
-- 🌱 I'm currently learning Frontend development with HTML5 and CSS3.
+- 🌱 I have successfully completed the Responsive Web Design Developer Certification, which represents approximately 300 hours of courses for Frontend with HTML5 and CSS3.
 - 💭 My goal is to get my first job in IT.
 - 😄 Pronouns: a thousand war dogs or WarDog for friends.
 - ⚡ Fun fact: I'm an aspiring video game developer and graphic designer.
