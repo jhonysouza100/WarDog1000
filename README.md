@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 
 <h2 align="left">About me:  </h1>
 
-- 🌱 I have successfully completed the Responsive Web Design Developer Certification, which represents approximately 300 hours of courses for Frontend with HTML5 and CSS3 (https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design).
-- ⚡ I am currently learning javaScript.
-- 💭 My goal is to get my first IT job as a full stack web developer
-- 😄 Fun fact: I'm an aspiring video game developer and graphic designer.
+- 🌱 I have successfully completed the Responsive Web Design Developer Certification, which represents approximately 300 hours of courses for Frontend with HTML5 and CSS3 (https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design). I successfully completed the JavaScript Algorithms and Data Structures Developer Certification, which represents approximately 300 hours of coursework. (https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures).
+- ⚡ I am currently learning Front End Development Libraries.
+- 💭 My goal is to get my first IT job as a full web developer
+- 😄 Fun fact: I'm an aspiring game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
-- 🌐 Personal web page: https://wardog1000.github.io/
+- 🌐 Personal website: https://wardog1000.github.io/
 
 <h2 align="left">Languages and Tools:</h2>
     
-<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<!--<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<!--<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>-->
 <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
