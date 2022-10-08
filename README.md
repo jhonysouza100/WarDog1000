@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <h2 align="left">About me:  </h1>
 
 - 🌱 I have successfully completed the Responsive Web Design Developer Certification and JavaScript Algorithms and Data Structures Developer Certification, which represents approximately 300 hours of coursework. 
-- (https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design).
-- (https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures).
 - ⚡ I am currently learning Front End Development Libraries.
 - 💭 My goal is to get my first IT job as a full web developer
 - 😄 Fun fact: I'm an aspiring game developer and graphic designer.
@@ -103,4 +101,5 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 </p>
 
 <h2 align="left">Certifications:</h2>
-<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="600" height="450"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="500" height="400"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="500" height="400"/> </a>
