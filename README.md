@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="#" width="40" height="40"/> </a>
 
 <!--<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>-->
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
  
 <!--
 
-<a> <img src="" alt="#" width="40" height="40"/> </a>
+<a> <img src="#" alt="#" width="40" height="40"/> </a>
 
 For more devicons: https://github.com/devicons/devicon/tree/master/icons
                    https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
@@ -76,6 +77,7 @@ https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg
 https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg
 https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg
 https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg
 https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg
