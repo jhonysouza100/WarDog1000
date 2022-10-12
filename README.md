@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework. 
 - ⚡ I am currently learning Front End Development Libraries.
-- 💭 My goal is to get my first IT job as a full web developer
+- 💭 My goal is to become a full stack web developer, so I can create amazing things.
 - 😄 Fun fact: I'm an aspiring game developer and graphic designer.
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
 - 🌐 Personal website: https://wardog1000.github.io/
