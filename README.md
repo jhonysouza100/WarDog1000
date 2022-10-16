@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/el.jhony.oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
+![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
 
 <h2>Languages</h2>
