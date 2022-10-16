@@ -31,7 +31,6 @@
 
 <h3>Frameworks:</h3>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
-
 <h3>Tools</h3>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
@@ -39,9 +38,6 @@
 <a href="https://github.com/WarDog1000" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-
-<!--<a href="https://nodejs.org/es/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://es.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>-->
 <h3>IDE</h3>
 <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
@@ -70,7 +66,7 @@
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/></a>
 </div>
- 
+
 <!--
 <a> <img src="#" alt="#" width="40" height="40"/> </a>
 For more devicons: 
