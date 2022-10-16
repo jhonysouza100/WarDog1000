@@ -88,8 +88,8 @@ https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fd
 -->
  
 <p>
- <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
-<a href="https://github.com/WarDog1000"><img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
+ <a href="https://github.com/WarDog1000"><img width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
+<a href="https://github.com/WarDog1000"><img width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
 </p>
       
 
