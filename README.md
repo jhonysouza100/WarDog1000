@@ -21,11 +21,15 @@
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
 
-<h2>Languages and Tools:</h2>
+<h2>Languages</h2>
     
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="40" height="40"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a>
+<div>
+<p><a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula"></p>
+</div>
 
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
@@ -38,7 +42,7 @@
 <a href="https://github.com/WarDog1000" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/> </a>
 
 <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a>
+
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
@@ -85,15 +89,14 @@ https://c.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif
 https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
 https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
 https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
--->
- 
+
 <h2>Statistics:</h2>
 <div align="center">
 <p>
- <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
 <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
 </p>
 </div>
+-->
       
 <h2>My Repos:</h2>
 <div align="center">
