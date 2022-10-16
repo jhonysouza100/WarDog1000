@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 <!-- REDES SOCIAIS -->
 <a href="https://www.linkedin.com/in/jhonatan-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=crimson&right_color=black&left_text=HelloVisitors)
- </div>
+[![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)](https: //insignia de visitante.io/status?path=https%3A%2F%2Fgithub.com%2FWarDog1000)
 
 <h2 align="left">Languages and Tools:</h2>
     
