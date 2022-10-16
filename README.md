@@ -51,7 +51,7 @@
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="40" height="40"/> </a>
-</div>
+
  
 <!--
 
@@ -122,3 +122,4 @@ Here are some ideas to get you started:
 <h2 align="left">Certifications:</h2>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/> </a>
+</div>
