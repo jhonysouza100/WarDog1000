@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-<h2>About me:</h2>
+<h3>About me:</h3>
 
 - 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework. 
 - ⚡ I am currently learning Front End Development Libraries.
