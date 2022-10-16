@@ -1,8 +1,10 @@
+<div align="center">
 <h1>
  <img  width="40" height="40" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
   I'm Jhony Souza and I thank you for visiting my profile
  <img  width="40" height="40" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
 </h1>
+</div>
 
 <!--<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>-->
 
@@ -109,3 +111,11 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 <h2 align="left">Certifications:</h2>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/> </a>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=red&right_color=blue) 
+  <!---https://github.com/jwenjian/visitor-badge->
+</div>
