@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- REDES SOCIAIS -->
 <a href="https://www.linkedin.com/in/jhonatan-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=crimson&right_color=gray)
- 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=crimson&right_color=black&left_text=HelloVisitors)
  </div>
 
 <h2 align="left">Languages and Tools:</h2>
