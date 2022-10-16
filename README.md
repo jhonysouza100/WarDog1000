@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 - 📫 How to contact me: jhonatansouzameza100@gmail.com
 - 🌐 Personal website: https://wardog1000.github.io/
 
+<div align="center">
+<!-- REDES SOCIAIS -->
+<a href="https://www.linkedin.com/in/jhonatan-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=crimson&right_color=gray)
+ 
+ </div>
+
 <h2 align="left">Languages and Tools:</h2>
     
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/> </a>
@@ -106,16 +114,9 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 <p align="left">
 <a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dracula">
 <a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dracula">
+ <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </p>
 
 <h2 align="left">Certifications:</h2>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/> </a>
-
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WarDog1000.visitor-badge&left_color=red&right_color=blue) 
-  <!---https://github.com/jwenjian/visitor-badge->
-</div>
