@@ -87,20 +87,25 @@ https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
 https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
 -->
  
+<h3 align="left">Statistics:</h3>
+<div align="center">
 <p>
- <a href="https://github.com/WarDog1000"><img width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
-<a href="https://github.com/WarDog1000"><img width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
+ <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
+<a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
 </p>
+</div>
       
-
-<h3 align="left">My Repos :</h3>
-      
-<p align="left">
+<h3 align="left">My Repos:</h3>
+<div align="center">
+<p>
 <a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dracula">
 <a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dracula">
  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </p>
+</div>
 
-<h2 align="left">Certifications:</h2>
+<h3>Certifications:</h3>
+<div align="center">
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
-<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/></a>
+</div>
