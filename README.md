@@ -6,26 +6,23 @@
 </h1>
 </div>
 
-<div align="center">
 <h2>About me:  </h2>
-</div>
 
 - 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework. 
 - ⚡ I am currently learning Front End Development Libraries.
 - 💭 My goal is to become a full stack web developer, so I can create amazing things.
 - 😄 Fun fact: What brought me to the digital world was my passion for technology and video games.
-- 🌐 Personal website: https://wardog1000.github.io/
 
 <div align="center">
 <!-- REDES SOCIAIS -->
+<a href="https://www.instagram.com/el.jhony.oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="jhonatansouzameza100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
 
-<div align="center">
-<h2 align="left">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
     
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="40" height="40"/> </a>
@@ -51,14 +48,12 @@
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="40" height="40"/> </a>
-
  
 <!--
-
 <a> <img src="#" alt="#" width="40" height="40"/> </a>
-
-For more devicons: https://github.com/devicons/devicon/tree/master/icons
-                   https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
+For more devicons: 
+https://github.com/devicons/devicon/tree/master/icons
+https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
 
 https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg 
 https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg
@@ -82,30 +77,15 @@ https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-
 https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 
--->
-<!--<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>-->
-
-<!--
-**WarDog1000/WarDog1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" height="650" src=""/>
+https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877
 https://c.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif
 https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
 https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
 https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
  
-<p align="left">
+<p>
  <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
 <a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
 </p>
@@ -122,4 +102,3 @@ Here are some ideas to get you started:
 <h2 align="left">Certifications:</h2>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/> </a>
-</div>
