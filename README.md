@@ -6,44 +6,25 @@
 </h1>
 </div>
 
-<!--<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>-->
-
-<!--
-**WarDog1000/WarDog1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://c.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif
-https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
-https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
-https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-<h2 align="left">About me:  </h1>
+<div align="center">
+<h2>About me:  </h2>
+</div>
 
 - 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework. 
 - ⚡ I am currently learning Front End Development Libraries.
 - 💭 My goal is to become a full stack web developer, so I can create amazing things.
 - 😄 Fun fact: What brought me to the digital world was my passion for technology and video games.
-- 📫 How to contact me: jhonatansouzameza100@gmail.com
 - 🌐 Personal website: https://wardog1000.github.io/
 
 <div align="center">
 <!-- REDES SOCIAIS -->
 <a href="https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="jhonatansouzameza100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
 
+<div align="center">
 <h2 align="left">Languages and Tools:</h2>
     
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/> </a>
@@ -70,6 +51,7 @@ Here are some ideas to get you started:
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="40" height="40"/> </a>
+</div>
  
 <!--
 
@@ -99,6 +81,27 @@ https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
 https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg
 https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+
+-->
+<!--<img width="100%" height="650" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>-->
+
+<!--
+**WarDog1000/WarDog1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://c.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif
+https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
+https://i.pinimg.com/originals/0c/0d/d1/0c0dd1efb2013a5454fa329d74df617b.gif
+https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 -->
  
