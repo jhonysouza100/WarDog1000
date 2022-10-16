@@ -22,14 +22,12 @@
 </div>
 
 <h2>Languages</h2>
-  
 <div> 
     <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/> </a>
     <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="40" height="40"/> </a>
     <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a>
 </div>
-<div><a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula"></div>
 
 <h3>Frameworks:</h3>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
@@ -49,14 +47,29 @@
 <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
-
-
 <a> <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" alt="adobe" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="40" height="40"/> </a>
 <a> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="40" height="40"/> </a>
+<!--stats-->
+<a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dracula">
+
+<h2>My Repos:</h2>
+<div align="center">
+<p>
+<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dracula">
+<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dracula">
+ <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</p>
+</div>
+
+<h2>Certifications:</h2>
+<div align="center">
+<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
+<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/></a>
+</div>
  
 <!--
 <a> <img src="#" alt="#" width="40" height="40"/> </a>
@@ -100,18 +113,3 @@ https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fd
 </p>
 </div>
 -->
-      
-<h2>My Repos:</h2>
-<div align="center">
-<p>
-<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dracula">
-<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dracula">
- <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</p>
-</div>
-
-<h2>Certifications:</h2>
-<div align="center">
-<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/> </a>
-<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/1%20JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/></a>
-</div>
