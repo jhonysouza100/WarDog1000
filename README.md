@@ -17,7 +17,6 @@
 <!-- REDES SOCIAIS -->
 <a href="https://www.instagram.com/el.jhony.oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="jhonatansouzameza100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
@@ -38,6 +37,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/WarDog1000" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/> </a>
 
+<a href="https://netbeans.apache.org/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
