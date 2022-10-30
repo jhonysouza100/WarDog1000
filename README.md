@@ -36,7 +36,7 @@
       <h2 align="center">Languages</h2>
 <div style="display: inline_block"> 
   <!--stats-->
-  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
 	<br> 
 	<div align="rigth"">
 		<div align="center">
