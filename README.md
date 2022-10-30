@@ -35,40 +35,48 @@
 <br>
 <div style="display: inline_block"> 
   <!--stats-->
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
 	<div align="rigth"">
-		<div align="center">
-		<h2 align="center">Languages</h2>
-    	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="25" height="25"/></a>
-    	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="25" height="25"/></a>
-    	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="25" height="25"/> </a>
-    	<a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="25" height="25"/></a>
+		<div align="right">
+      <div align="center">
+        <h2>Languages</h2>
+        <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="25" height="25"/></a>
+        <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="25" height="25"/></a>
+        <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="25" height="25"/> </a>
+        <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="25" height="25"/></a>
+      </div>
 		</div>
-		<div align="center">
-  		<h4>Frameworks</h4>
-			<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="25" height="25"/> </a>
-			<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="25" height="25"/> </a>
+		<div align="right">
+      <div align="center">
+        <h4>Frameworks</h4>
+        <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="25" height="25"/> </a>
+        <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="25" height="25"/> </a>
+      </div>
 		</div>
-		<div align="center">
-			<h4>Tools</h4>
-			<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/></a>
-			<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/></a>
-			<a href="https://github.com/WarDog1000" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="25" height="25"/></a>
-			<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="25" height="25"/></a>
-			<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25"/></a>
+		<div align="right">
+      <div align="center">
+        <h4>Tools</h4>
+        <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/></a>
+        <a href="https://github.com/WarDog1000" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="25" height="25"/></a>
+        <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="25" height="25"/></a>
+        <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25"/></a>
+      </div>
 		</div>
-		<div align="center">
-			<h4>IDE</h4>
-			<a href="https://vscode.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="25" height="25"/></a>
-			<a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="25" height="25"/> </a>
-			<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/></a>
-			<br>
-			<a><img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" alt="adobe" width="25" height="25"/></a>
-			<a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="25" height="25"/></a>
-			<a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="25" height="25"/></a>
-			<a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="25" height="25"/></a>
-			<a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="25" height="25"/> </a>
-			<a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="25" height="25"/> </a>
+		<div align="right">
+      <div align="center">
+        <h4>IDE</h4>
+        <a href="https://vscode.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="25" height="25"/></a>
+        <a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="25" height="25"/> </a>
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/></a>
+        <br>
+        <a><img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" alt="adobe" width="25" height="25"/></a>
+        <a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="25" height="25"/></a>
+        <a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="25" height="25"/></a>
+        <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" width="25" height="25"/></a>
+        <a><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" alt="afterefects" width="25" height="25"/> </a>
+        <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" width="25" height="25"/> </a>
+      </div>
 		</div>
 	</div>
 </div>
@@ -88,11 +96,11 @@
 
 <!--
 <a> <img src="#" alt="#" width="40" height="40"/> </a>
-For more devicons: 
+For more devicons:
 https://github.com/devicons/devicon/tree/master/icons
 https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
 
-https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg 
+https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
 https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg
 https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg
