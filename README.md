@@ -33,13 +33,12 @@
 
 </div>
 <br>
-      <h2 align="center">Languages</h2>
 <div style="display: inline_block"> 
   <!--stats-->
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
-	<br> 
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
 	<div align="rigth"">
 		<div align="center">
+		<h2 align="center">Languages</h2>
     	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="25" height="25"/></a>
     	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="25" height="25"/></a>
     	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="25" height="25"/> </a>
