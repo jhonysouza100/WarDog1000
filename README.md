@@ -6,13 +6,14 @@
 </h1>
 </div>
 
+<!--
 <h3>About me:</h3>
 
 - 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework.
 - ⚡ I am currently learning Front End Development Libraries.
 - 💭 My goal is to become a full stack web developer, so I can create amazing things.
 - 😄 Fun fact: What brought me to the digital world was my passion for technology and video games.
-
+-->
 <div align="center">
 <!-- REDES SOCIAIS -->
 	<a href = "mailto: jhonatansouzameza100@gmail.com">
