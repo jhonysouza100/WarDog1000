@@ -69,8 +69,8 @@
 </div>
 <div align="center">
 	<h2>Certifications</h2>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="400" height="300"/></a>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"><img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="400" height="300"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"><img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
 <!-- ![Snake animation](https://github.com/WarDog1000/WarDog1000/blob/output/github-contribution-grid-snake.svg) -->
 
