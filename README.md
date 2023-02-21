@@ -42,13 +42,14 @@
 <h4>Frameworks</h4>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="jquery-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-certification" width="40" height="40"/> </a>
 <h4>Tools</h4>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/WarDog1000" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-certification" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+<a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-certification" width="40" height="40"/></a>
 <h4>IDE</h4>
 <a href="https://vscode.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a>
 <a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
