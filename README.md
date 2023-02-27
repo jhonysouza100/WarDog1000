@@ -43,6 +43,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express-certification" width="40" height="40"/> </a>
 <h4>Tools</h4>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/WarDog1000" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/></a>
@@ -83,23 +84,14 @@ https://icon-icons.com/es/icono/photoshop-adobe-photoshop/1687
 
 https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
 https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg
 https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg
 https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg
 https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg
-https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg
-https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg
 https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg
 https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg
-https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg
 https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg
 https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg
 https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
-https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
-https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg
 https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 
