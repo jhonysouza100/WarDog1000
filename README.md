@@ -66,7 +66,7 @@
 <div align="center">
 	<h2>My Repos</h2>
 	<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dark" alt="#"></a>
-	<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
+	<a href="https://github.com/WarDog1000/road-to-hero"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
  		<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 <div align="center">
