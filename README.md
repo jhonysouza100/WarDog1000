@@ -66,13 +66,13 @@
 <div align="center">
 	<h2>My Repos</h2>
 	<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dark" alt="#"></a>
-	<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=FreeCodeCamp&langs_count=5&theme=dark" alt="#"></a>
+	<a href="https://github.com/WarDog1000/FreeCodeCamp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
  		<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 <div align="center">
 	<h2>Certifications</h2>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design"> <img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures"><img src="https://github.com/WarDog1000/FreeCodeCamp/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/WarDog1000/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/WarDog1000/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
 <!-- ![Snake animation](https://github.com/WarDog1000/WarDog1000/blob/output/github-contribution-grid-snake.svg) -->
 
