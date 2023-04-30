@@ -22,7 +22,7 @@
     <a href = "https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank">
     <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png">
     </a>
-   	<a href = "https://www.instagram.com/el.jhony.oficial/" target="_blank">
+   	<a href = "https://www.instagram.com/jhonysouza100/" target="_blank">
     <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png">
     </a>
 	</a>
