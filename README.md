@@ -39,6 +39,7 @@
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3-certification" width="40" height="40"/></a>
 <a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-certification" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a>
 <h4>Frameworks</h4>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
