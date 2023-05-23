@@ -50,7 +50,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
 <h4>Frameworks</h4>
-<a href="#"> <img src="hhttps://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular.js-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular.js-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js-certification" width="40" height="40"/> </a>
 <h4>Tools</h4>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -59,6 +59,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-certification" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.apachefriends.org/es/index.html" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a>
 <a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
 <a href="https://vscode.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/Guide/AJAX" target="_blank"><img src="https://coregenicsoftwares.com/wp-content/uploads/2022/01/pngkit_ajax-logo-png_3783642-197x300.png" alt="ajax" width="35" height="50"/></a>
