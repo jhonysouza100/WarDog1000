@@ -64,12 +64,12 @@
 <a href="https://vscode.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/Guide/AJAX" target="_blank"><img src="https://coregenicsoftwares.com/wp-content/uploads/2022/01/pngkit_ajax-logo-png_3783642-197x300.png" alt="ajax" width="35" height="50"/></a>
 
-<div align="center">
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- <div align="center">
 	<h2>My Repos</h2>
 	<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dark" alt="#"></a>
 	<a href="https://github.com/WarDog1000/road-to-hero"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
- 		<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
+</div> -->
 <div align="center">
 	<h2>Certifications</h2>
 	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/WarDog1000/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
