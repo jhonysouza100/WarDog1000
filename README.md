@@ -30,10 +30,10 @@
     <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/whatsapp-circle.png">
     </a>
 
-![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarDog1000&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
+![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjhonysouza100&label=Visitors&labelColor=%23dc143c&countColor=%23555555&style=flat&labelStyle=upper)
 </div>
 <br>
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarDog1000&langs_count=10&layout=compact&theme=dark">
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonysouza100&langs_count=10&layout=compact&theme=dark">
 <h2 align="center">Stack</h2>
 <!-- <h4>Languajes</h4> -->
 <a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-certification" width="40" height="40"/></a>
@@ -54,7 +54,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js-certification" width="40" height="40"/> </a>
 <h4>Tools</h4>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/WarDog1000" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/></a>
+<a href="https://github.com/jhonysouza100" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-certification" width="40" height="40"/></a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-certification" width="40" height="40"/></a>
@@ -67,15 +67,15 @@
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- <div align="center">
 	<h2>My Repos</h2>
-	<a href="https://github.com/WarDog1000/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=JHotelApp&langs_count=5&theme=dark" alt="#"></a>
-	<a href="https://github.com/WarDog1000/road-to-hero"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WarDog1000&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
+	<a href="https://github.com/jhonysouza100/JHotelApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonysouza100&repo=JHotelApp&langs_count=5&theme=dark" alt="#"></a>
+	<a href="https://github.com/jhonysouza100/road-to-hero"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonysouza100&repo=road-to-hero&langs_count=5&theme=dark" alt="#"></a>
 </div> -->
 <div align="center">
 	<h2>Certifications</h2>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/WarDog1000/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/WarDog1000/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
-<!-- ![Snake animation](https://github.com/WarDog1000/WarDog1000/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/jhonysouza100/jhonysouza100/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 <a> <img src="#" alt="#" width="40" height="40"/> </a>
@@ -106,7 +106,7 @@ https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fd
 <h2>Statistics:</h2>
 <div align="center">
 <p>
-<a href="https://github.com/WarDog1000"><img width="400" src="https://github-readme-stats.vercel.app/api?username=WarDog1000&show_icons=true&theme=dracula">
+<a href="https://github.com/jhonysouza100"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonysouza100&show_icons=true&theme=dracula">
 </p>
 </div>
 -->
