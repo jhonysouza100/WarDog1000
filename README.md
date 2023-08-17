@@ -9,10 +9,19 @@
 
 <h3>About me:</h3>
 
-- 🌱 I have successfully completed the Responsive Web Design and JavaScript Algorithms & Data Structures Developer Certification, which represents approximately 300 hours of coursework.
-- ⚡ I am currently learning Front End Development Libraries.
-- 💭 My goal is to become a full stack web developer, so I can create amazing things.
-- 😄 Fun fact: What brought me to the digital world was my passion for technology and video games.
+⚡ I'm currently working on my portfolio, migrating from vanilla JavaScript to a combination of React and Vite. Also, I am implementing a backend using PHP and Laravel to get data from the Google Analytics API. This will allow me to display the number of visits on the frontend of my page.
+
+🌱 My current focus spans several technology areas:
+
+1. Migration to React and Vite: I'm modernizing my portfolio by adopting React and Vite. This will allow me to build a more dynamic and efficient interface to present my projects and skills.
+3. Google Analytics Integration: I am implementing a backend using PHP and the Laravel framework to access data from the Google Analytics API. This will allow me to collect and display real-time visitor statistics on my front page.
+4. Resume Builder Application: I am developing a web application that will allow users to quickly generate professional resumes. I use native JavaScript to offer a fast and efficient experience. Additionally, I am taking advantage of local storage to ensure that users can conveniently save and access their resumes.
+
+💭 My goal is to continually improve my portfolio and technical skills, and I am excited for the opportunity to demonstrate my capabilities through these projects. I am committed to providing innovative and functional technology solutions.
+
+~~😄 Fun fact~~: Recently, I have faced technical and financial challenges that have significantly delayed my progress. To overcome these difficulties, I currently work as a receptionist on the night shift, with the aim of raising funds to improve the components of my computer so that I can invest in a Hostinger hosting plan, where I will host the websites of my future clients, while I continue to expand. my skills and building professional relationships.
+
+Despite the current obstacles, I am committed to further advancing my professional development.
 
 <div align="center">
 <!-- REDES SOCIAIS -->
