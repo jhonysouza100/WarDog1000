@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
  <img  width="25" height="25" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
-  I'm Jhony Souza and I thank you for visiting my profile
+  Welcome to my lobby
  <img  width="25" height="25" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
 </h1>
 </div>
@@ -47,6 +47,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
 <h4>Frameworks</h4>
