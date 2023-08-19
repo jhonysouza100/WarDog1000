@@ -1,21 +1,14 @@
 <div align="center">
 <h1>
  <img  width="25" height="25" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
-  Welcome to my lobby
+  My Profile
  <img  width="25" height="25" src="https://www.discordianos.com/uploads/monthly_2021_02/c5efb82dcccc7f06ae379bdc9fdf00e3.cropped.gif.4916ab8d670076f628c323c10270c436.gif">
 </h1>
 </div>
 
-
-<h3>About me:</h3>
-
 ⚡ I'm currently working on my portfolio, migrating from vanilla JavaScript to a combination of React and Vite. Also, I am implementing a backend using PHP and Laravel to get data from the Google Analytics API. This will allow me to display the number of visits on the frontend of my page.
 
-🌱 My current focus spans several technology areas:
-
-1. Migration to React and Vite: I'm modernizing my portfolio by adopting React and Vite. This will allow me to build a more dynamic and efficient interface to present my projects and skills.
-3. Google Analytics Integration: I am implementing a backend using PHP and the Laravel framework to access data from the Google Analytics API. This will allow me to collect and display real-time visitor statistics on my front page.
-4. Resume Builder Application: I am developing a web application that will allow users to quickly generate professional resumes. I use native JavaScript to offer a fast and efficient experience. Additionally, I am taking advantage of local storage to ensure that users can conveniently save and access their resumes.
+🌱 I am also developing a web application that will allow users to quickly generate professional resumes. I use native JavaScript to provide a fast and efficient experience. Additionally, I am taking advantage of local storage to ensure users can conveniently save and access their resumes. 
 
 💭 My goal is to continually improve my portfolio and technical skills, and I am excited for the opportunity to demonstrate my capabilities through these projects. I am committed to providing innovative and functional technology solutions.
 
