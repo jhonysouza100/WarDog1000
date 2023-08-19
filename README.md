@@ -58,14 +58,17 @@ Despite the current obstacles, I am committed to further advancing my profession
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express-certification" width="40" height="40"/> </a>
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-certification" width="40" height="40"/></a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="./icons/styled-components.svg" alt="styled-component-certification" width="40" height="40"/> </a>
 <h4>Frameworks</h4>
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular.js-certification" width="40" height="40"/> </a>
+<!-- <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular.js-certification" width="40" height="40"/> </a> -->
+<a href="#"> <img src="./icons/vitejs.svg" alt="vite-certification" width="40" height="40"/> </a>
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby-certification" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js-certification" width="40" height="40"/> </a>
 <h4>Tools</h4>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/jhonysouza100" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-certification" width="40" height="40"/></a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-certification" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
