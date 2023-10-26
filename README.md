@@ -45,7 +45,7 @@ Despite the current obstacles, I am committed to further advancing my profession
 
 | Tools | Libs | Desing |
 | - | - | - |
-|![git](./icons/git.svg) ![terminal](./icons/terminal.svg) ![bash](./icons/bash.svg) ![npm](./icons/npm.svg) ![nodejs](./icons/nodejs.svg) ![ajax](./icons/ajax.svg) ![docker](./icons/docker.svg) ![webpack](./icons/webpack.svg) ![xampp](./icons/xampp.svg) | ![react](./icons/react.svg) ![redux](./icons/redux.svg) ![jquery](./icons/jquery.svg)| ![bootstrap](./icons/bootstrap.svg) ![sass](./icons/sass.svg) ![tailwindcss](./icons/tailwindcss.svg) ![materialui](./icons/materialui.svg) ![styled](./icons/styled-components.svg) ![markdown](./icons/markdown.svg)|
+|![git](./icons/git.svg) ![terminal](./icons/terminal.svg) ![bash](./icons/bash.svg) ![npm](./icons/npm.svg) ![nodejs](./icons/nodejs.svg) ![ajax](./icons/ajax.svg) ![docker](./icons/docker.svg) ![webpack](./icons/webpack.svg) ![xampp](./icons/xampp.svg) | ![react](./icons/react.svg) ![redux](./icons/redux.svg) ![jquery](./icons/jquery.svg)| ![bootstrap](./icons/bootstrap.svg) ![sass](./icons/sass.svg) ![tailwindcss](./icons/tailwindcss.svg) ![materialui](./icons/materialui.svg) ![radixui](./icons/radixui.svg) ![styled](./icons/styled-components.svg) ![markdown](./icons/markdown.svg)|
 
 
 | Frameworks | Databases | Cloud |
