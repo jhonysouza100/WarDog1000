@@ -50,7 +50,7 @@ Despite the current obstacles, I am committed to further advancing my profession
 
 | Frameworks | Databases | Cloud |
 | - | - | - |
-| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![express](./icons/express.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![github](./icons/github.svg) ![oauth](./icons/oauth.svg) |
+| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![express](./icons/express.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![github](./icons/github.svg) ![oauth](./icons/oauth.svg) ![firebase](./icons/firebase.svg) |
 
 <div align="center">
 	<h2>Certifications</h2>
