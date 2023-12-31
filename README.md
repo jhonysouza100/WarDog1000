@@ -48,9 +48,9 @@ Despite the current obstacles, I am committed to further advancing my profession
 |![git](./icons/git.svg) ![nodejs](./icons/nodejs.svg) ![terminal](./icons/terminal.svg) ![npm](./icons/npm.svg) ![ajax](./icons/ajax.svg) ![pwa](./icons/pwa.svg) ![docker](./icons/docker.svg) ![xampp](./icons/xampp.svg) ![postman](./icons/postman.svg) | ![react](./icons/react.svg) ![redux](./icons/redux.svg) ![express](./icons//express.svg) ![jquery](./icons/jquery.svg)| ![bootstrap](./icons/bootstrap.svg) ![sass](./icons/sass.svg) ![tailwindcss](./icons/tailwindcss.svg) ![materialui](./icons/materialui.svg) ![radixui](./icons/radixui.svg) ![styled](./icons/styled-components.svg) ![markdown](./icons/markdown.svg)|
 
 
-| Frameworks | Databases | Cloud |
-| - | - | - |
-| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![github](./icons/github.svg) ![oauth](./icons/oauth.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![twilio](./icons/twilio.svg) |
+| Frameworks | Databases | Cloud | Security |
+| - | - | - | - |
+| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![github](./icons/github.svg) ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![twilio](./icons/twilio.svg) | ![jwt](./icons/jwt.svg) ![auth0](./icons/auth0.svg) ![oauth](./icons/oauth.svg) |
 
 <div align="center">
 	<h2>Certifications</h2>
