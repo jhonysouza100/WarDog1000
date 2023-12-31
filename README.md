@@ -50,7 +50,7 @@ Despite the current obstacles, I am committed to further advancing my profession
 
 | Frameworks | Databases | Cloud | Security |
 | - | - | - | - |
-| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![github](./icons/github.svg) ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![twilio](./icons/twilio.svg) | ![jwt](./icons/jwt.svg) ![auth0](./icons/auth0.svg) ![oauth](./icons/oauth.svg) |
+| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![gatsby](./icons/gatsby.svg) ![nextjs](./icons/nextjs.svg)  ![nestjs](./icons/nestjs.svg) ![laravel](./icons/laravel.svg) |  ![mysql](./icons/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![github](./icons/github.svg) ![amazon](./icons/amazon.svg) ![google](./icons/googlecloud.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![twilio](./icons/twilio.svg) ![openweather](./icons/open-weather.svg) | ![jwt](./icons/jwt.svg) ![auth0](./icons/auth0.svg) ![oauth](./icons/oauth.svg) |
 
 <div align="center">
 	<h2>Certifications</h2>
