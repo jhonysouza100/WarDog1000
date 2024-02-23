@@ -1,3 +1,5 @@
-[Best page to get svg logos](https://worldvectorlogo.com/)
+[world vector logo](https://worldvectorlogo.com/)
 
-[Another page to get svg icons](https://iconduck.com)
+[iconduck](https://iconduck.com)
+
+[iconify](https://icon-sets.iconify.design/logos/)
