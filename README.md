@@ -53,7 +53,7 @@
 | ![html](./icons/html5.svg) ![markdown](./icons/markdown.svg) ![docusaurus](./icons/docusaurus.svg) | ![rest](./icons/rest.svg) ![restapi](./icons/motion/restapi.svg) ![weather](./icons/open-weather.svg) ![twilio](./icons/twilio.svg) | ![puppeteer](./icons/puppeteer.svg) ![postman](./icons/postman.svg) ![xampp](./icons/xampp.svg) ![jest](./icons/motion/jest.svg) ![scrum](./icons/scrum.svg) |
 
 <div align="center">
-	<h2>Certifications</h2>
+	<h3>Certifications</h3>
 	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
 	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
