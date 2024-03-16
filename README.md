@@ -35,7 +35,7 @@
 </div>
 
 <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonysouza100&langs_count=10&layout=compact&theme=dark">
-<h2 align="center">Stack</h2>
+<h3 align="center">Stack</h3>
 
 ![jscript](./icons/javascript.svg)  ![typescript](./icons/typescript.svg) ![php](./icons/php.svg) ![java](./icons/java.svg)
 
