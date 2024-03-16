@@ -79,13 +79,13 @@
 
 ✨ I enjoy learning new technologies and constantly look for opportunities to expand my skills.
 
-✨ Preferred JS Frameworks ✔TypeScript, ✔NextJS, NestJS, ✔React, ✔Angular
+✨ Preferred JS Frameworks ✔TypeScript, ✔NextJS, ✔NestJS, ✔React, ✔Angular
 
 ✨ Preferred Styling Frameworks ✔Tailwind CSS, ✔Sass, ✔Material-UI
 
 ✨ Database Options ✔MongoDB, ✔MySQL, ✔PostgreSQL
 
-✨ Web Hosting Options ✔Digital Ocean, ✔AWS Services - EC2, S3 and Lambda, ✔cPanel Service, ✔GoDaddy, ✔DonWeb
+✨ Web Hosting Options ✔Digital Ocean, ✔AWS Services - EC2, S3 and Lambda, ✔cPanel Service, ✔GoDaddy, ✔DonWeb,
 ✔Hostinger
 
-✨ Payment gateway integration ✔Stripe, ✔PayPal, MercadoPago
+✨ Payment gateway integration ✔Stripe, ✔PayPal, ✔MercadoPago
