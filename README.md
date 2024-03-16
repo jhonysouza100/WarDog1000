@@ -60,10 +60,10 @@
 <!-- ![Snake animation](https://github.com/jhonysouza100/jhonysouza100/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!-- <div align="center">
+<div align="center">
 <h2>Stats</h2>
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza10&layout=compact&theme=dark&langs_count=14&range=all_time"  width="100%" alt="@Goblin's wakatime stats"/></a>
-</div> -->
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time"  width="100%" alt="@Goblin's wakatime stats"/></a>
+</div>
 
 ## My personal values ​​and work ethic.
 
