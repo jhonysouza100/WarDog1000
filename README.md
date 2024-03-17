@@ -46,7 +46,7 @@
 
 | Frameworks | Databases | Authentication | Deployment |
 | - | - | - | - |
-| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![nextjs](./icons/nextjs.svg) ![gatsby](./icons/motion/gatsby.svg) ![express](./icons//express.svg) ![nestjs](./icons/nestjs.svg) |  ![mysql](./icons/motion/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![jwt](./icons/jwt.svg) ![auth0](./icons/auth0.svg) ![oauth](./icons/oauth.svg) |  ![amazon](./icons/motion/aws.svg)  ![github](./icons/github.svg) ![google](./icons/googlecloud.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![digitalocean](./icons/digitalocean.svg) ![cap](./icons/caprover.svg) |
+| ![astro](./icons/astro.svg) ![vite](./icons/vitejs.svg) ![nextjs](./icons/nextjs.svg) ![gatsby](./icons/motion/gatsby.svg) ![express](./icons//express.svg) ![nestjs](./icons/nestjs.svg) |  ![mysql](./icons/motion/mysql.svg)  ![postgresql](./icons/postgresql.svg)  ![mongodb](./icons/mongodb.svg) ![prismaorm](./icons/prisma.svg) ![sqlite](./icons/sqlite.svg) | ![jwt](./icons/jwt.svg) ![auth0](./icons/auth0.svg) ![oauth](./icons/oauth.svg) |  ![amazon](./icons/motion/aws.svg)  ![github](./icons/github.svg) ![google](./icons/googlecloud.svg) ![firebase](./icons/firebase.svg) ![vercel](./icons/vercel.svg) ![netlify](./icons/netlify.svg) ![digitalocean](./icons/digitalocean.svg) ![cap](./icons/caprover.svg) ![nextcloud](./icons/nextcloud.svg) |
 
 | Markup/Documentación | APIs | Code Quality/Testing |
 | - | - | - |
