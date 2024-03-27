@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-- 🔭 Full-stack developer with 3+ years of experience designing and creating scalable, high-performance web and mobile applications
+- 🔭 Full-stack Web Developer with 3+ years of experience designing and creating scalable, high-performance web and mobile applications
 - 🌱 Proficient in front-end technologies such as React and back-end technologies such as Node.js and Express.
 - 👍 Experience in DevOps, CI/CD and cloud infrastructure, especially with VPS, Docker and Caprover.
 - ⚡ I am developing a website for hotel and restaurant reservations connected to a REST API that manages the database.
