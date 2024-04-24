@@ -56,6 +56,7 @@
 	<h3>Certifications</h3>
 	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
 	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a href="https://www.freecodecamp.org/certification/JhonySouza/front-end-development-libraries" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/3%20Front%20End%20Development%20Libraries/03_frontend-library-certification-projects/frontend-development-libraries-certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
 <!-- ![Snake animation](https://github.com/jhonysouza100/jhonysouza100/blob/output/github-contribution-grid-snake.svg) -->
 
